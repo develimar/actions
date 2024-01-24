@@ -1,3 +1,3 @@
 <?php
 
-testanod estudo
+echo "Testando Git Action";
